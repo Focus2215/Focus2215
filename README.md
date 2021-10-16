@@ -2,9 +2,9 @@
 
 Flutter Firebase NoSQL : register
 
-กฤษณพงศ์ พงศ์มณเฑียร 62020471
+อชิร มะลิกุล 62020785
 
-หน้าจอregister
+register
 
 ![16 10 2021_23 13 37_REC](https://user-images.githubusercontent.com/92374367/137594635-2ce65266-d3ff-45c8-ba8d-98b059fa6ee9.png)
 
